@@ -12,5 +12,3 @@ cf_key: ""
 source-files:
   # use local file
   - source.yaml
-  # use web file
-  - https://github.com/codermaybe/proxypool/blob/master/config/source.yaml
